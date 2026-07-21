@@ -1,0 +1,9 @@
+{
+    "expo": {
+      "name": "Flashcard Quiz",
+      "slug": "flashcard-quiz",
+      "version": "1.0.0",
+      "orientation": "portrait",
+      "userInterfaceStyle": "light"
+    }
+  }
